@@ -1,0 +1,16 @@
+{
+  "name": "redux-query-dispatch",
+  "version": "1.0.0",
+  "description": "A tiny utility helper for dispatching redux actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Srom",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "redux-thunk": "^2.3.0"
+  }
+}
